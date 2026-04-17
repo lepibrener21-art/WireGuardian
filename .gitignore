@@ -1,0 +1,10 @@
+.venv-server/
+.venv-client/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.conf
+*.crt
+*.key
+*.db
